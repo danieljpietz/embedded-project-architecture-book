@@ -1,0 +1,5 @@
+[book]
+authors = ["danieljpietz"]
+language = "en"
+src = "src"
+title = "Embedded Project Architecture Cookbook"
